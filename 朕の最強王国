@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+    <html lang="ja">
+        <head>
+        <meta charset="UTF-8" />
+            <meta name="viewport" Compatible="width=device-width, initial-scale=1.0" />
+            <meta https-equiv="X-UA-Compatible" content="ie=edge" />
+            <title>【ゲーム配布】朕の最強王国</title>
+        </head>
+        <body>
+            <p>ゲームのダウンロードはこちらから</p>
+            <a href="./朕の最強王国.exe" download="朕の最強王国.exe">ゲームをダウンロード</a>
+        </body>
+    </html>
